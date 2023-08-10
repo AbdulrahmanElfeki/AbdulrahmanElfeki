@@ -1,16 +1,19 @@
-### Hi there 👋
+h1 align="center">Hi, I'm Abdulrahman 👋</h1>
+<p align="center">
+    <a href="https://www.linkedin.com/in/abdulrahman-el-feki/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  </p>
+  
+I am a highly motivated DevOps Engineer. My expertise lies in developing and implementing effective DevOps strategies that help organizations improve their software development life cycle, increase efficiency, and reduce costs.
 
-<!--
-**AbdulrahmanElfeki/AbdulrahmanElfeki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have worked with various tools and technologies such as:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Red Hat System Administration I and II
+- Python
+- Bash Shell Scripting
+- Docker
+- Kubernetes
+- AWS
+- Azure
+- Terraform
+- Git
+- Jenkins
